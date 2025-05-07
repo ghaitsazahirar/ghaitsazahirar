@@ -1,7 +1,7 @@
 <!-- Personal Greeting -->
 <h1 align="center">Hi there 👋, I'm Ghaitsa Zahira Rahma</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Freshgraduate+from+Informatics;Competitive+Programmer;Always+curious+to+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Freshgraduate+from+Informatics;Competitive+Programmer;Always+curious+to+learning+new+things"></a>
 </p>
 
 <!-- GitHub Stats & Streak -->
@@ -26,13 +26,21 @@
 </div>
 
 <!-- Technologies -->
-<div align="center">
-  <h2>Technologies That I Know 👨🏻‍💻</h2>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
 </div>
 
+<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,slack,css,discord,postgres,express,figma,firebase,github,html,js,linux,md,mysql,nodejs,postman,react,tailwind,ts,vscode&perline=14" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html,js,linux,md,mysql,nodejs,postman,react,tailwind,ts,vscode&perline=14" alt="Skill Icons" />
+  </a>
+  <!-- Manual Slack Icon -->
+  <a href="https://slack.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" style="margin: 8px 4px;" />
   </a>
 </p>
 
@@ -55,11 +63,3 @@
     <img src="https://visitcount.itsvg.in/api?id=ghaitsazahirar&icon=3&color=6" alt="Visitor Count"/>
   </a>
 </div>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/ghaitsazahirar/ghaitsazahirar/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
