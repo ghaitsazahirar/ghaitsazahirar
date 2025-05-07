@@ -33,14 +33,16 @@
   </ul>
 </div>
 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html,js,linux,md,mysql,nodejs,postman,react,tailwind,ts,vscode&perline=14" alt="Skill Icons" />
-  </a>
+<!-- Tech Stack Icons -->
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px;">
   <!-- Manual Slack Icon -->
   <a href="https://slack.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" style="margin: 8px 4px;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" style="vertical-align: middle;" />
+  </a>
+
+  <!-- Skill Icons -->
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html,js,linux,mysql,nodejs,postman,react,tailwind,ts,vscode&perline=14" alt="Skill Icons" />
   </a>
 </p>
 
@@ -59,7 +61,5 @@
 
 <!-- Profile Visitor Count -->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ghaitsazahirar&icon=3&color=6" alt="Visitor Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ghaitsazahirar&style=flat-square&color=blue" alt="Visitor Count"/>
 </div>
