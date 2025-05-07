@@ -13,9 +13,6 @@
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaitsazahirar&theme=dark&hide_border=false" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ghaitsazahirar&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
     </tr>
   </table>
 </p>
@@ -60,6 +57,8 @@
 </div>
 
 <!-- Profile Visitor Count -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghaitsazahirar&style=flat-square&color=blue" alt="Visitor Count"/>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <h2>Visitors</h2>
+  <img src="https://komarev.com/ghpvc/?username=ghaitsazahirar&style=for-the-badge&color=blue&label=Profile%20Visits" alt="Visitor Count" style="border-radius: 8px; border: 2px solid #1D4ED8; padding: 5px 15px;" />
 </div>
+
